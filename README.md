@@ -1,6 +1,6 @@
 # services
 Echole 42 project
-
+Перед запуском проекта убедитесь, что у вас установлен minikube( minikube status )
 
 <div aligne="center">
   <p>Данный проект направлен на изучение настроек конфигов для web-services</p>
@@ -11,3 +11,4 @@ Echole 42 project
   При поднятии пода mysql в yaml файле я создавал volume, что бы при убийстве my-sql-svc база данных не теряла предыдущие записи. Так же в этом проекте я для
   себя узнал, как происходит взаимодействия между telegraf, grafana и influxdb</p>
 </div>
+
