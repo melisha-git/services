@@ -1,5 +1,5 @@
 # services
-Echole 42 project
+# Echole 42 project
 Перед запуском проекта убедитесь, что у вас установлен minikube( minikube status )
 
 <div aligne="center">
